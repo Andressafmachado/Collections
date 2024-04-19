@@ -1,0 +1,14 @@
+/Users/andressamachado/Desktop/learningC#/colections/bin/Debug/net8.0/colections
+/Users/andressamachado/Desktop/learningC#/colections/bin/Debug/net8.0/colections.deps.json
+/Users/andressamachado/Desktop/learningC#/colections/bin/Debug/net8.0/colections.runtimeconfig.json
+/Users/andressamachado/Desktop/learningC#/colections/bin/Debug/net8.0/colections.dll
+/Users/andressamachado/Desktop/learningC#/colections/bin/Debug/net8.0/colections.pdb
+/Users/andressamachado/Desktop/learningC#/colections/obj/Debug/net8.0/colections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andressamachado/Desktop/learningC#/colections/obj/Debug/net8.0/colections.AssemblyInfoInputs.cache
+/Users/andressamachado/Desktop/learningC#/colections/obj/Debug/net8.0/colections.AssemblyInfo.cs
+/Users/andressamachado/Desktop/learningC#/colections/obj/Debug/net8.0/colections.csproj.CoreCompileInputs.cache
+/Users/andressamachado/Desktop/learningC#/colections/obj/Debug/net8.0/colections.dll
+/Users/andressamachado/Desktop/learningC#/colections/obj/Debug/net8.0/refint/colections.dll
+/Users/andressamachado/Desktop/learningC#/colections/obj/Debug/net8.0/colections.pdb
+/Users/andressamachado/Desktop/learningC#/colections/obj/Debug/net8.0/colections.genruntimeconfig.cache
+/Users/andressamachado/Desktop/learningC#/colections/obj/Debug/net8.0/ref/colections.dll
